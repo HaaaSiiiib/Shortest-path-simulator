@@ -17,6 +17,16 @@
 - Press **"R"** to reset the whole grid i.e turn all cells white
 - Press **"C"** if you just want to clear the path that was created in an earlier execution. ( *THIS DOESN'T AFFECT THE BARRIERS, WEIGHTS, AND START/END POINTS* )
 
+
+
+## About the two weigted path algorithms Djikstra and A* : 
+
+There are great similarities in the two algorithms, with the difference being that
+A* has a heuristic mechanism while Dijkstra does not. With the heuristic, A* 
+usually outperforms Dijkstra in speed in finding a path, however, unlike Dijkstra,
+the path A* finds may not always be the optimal one.
+
+
 Here are some examples of simulating the shortest path with help of respective algorithm. 
 
 ### BFS Algorithm example
