@@ -7,15 +7,29 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.caution{
+  position: relative;
+  top: -20px;
+  left: 0px;
+  color: #FFFF00;
+  text-shadow: 0 0 25px wheat;
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  line-height: 1.5;
+  transition: 0.5s;
+  font-family:"courier";
+
+}
+
 .hero{
   position: relative;
-  top: 50px;
+  top: 80px;
   left: 10px;
   color:wheat;
   text-shadow: 0 0 0px wheat;
   text-decoration: none;
   letter-spacing: 0.1rem;
-  line-height: 1.5;
+  line-height: 1.4;
   transition: 0.5s;
   font-family:"courier";
 }
