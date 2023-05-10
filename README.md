@@ -9,7 +9,7 @@
 ## INSTRUCTIONS ON HOW TO USE THE PATH VISUALIZERS
 
 - Press **"M"** to generate a random maze
-- **First click** sets **Start Point** or *Shibgonj* [Let's call it S for short 🙃] (Orange); **Second click** sets the **End Point** in this casr *Tilagor* [T for short] (Blue)
+- **First click** sets **Start Point** or *Shibgonj* [Let's call it S for short 🙃] (in Orange); **Second click** sets the **End Point** in this case *Tilagor* [T for short] (in Blue)
 - Further clicking will generate **barriers** in Black
 - In the weigted path algorithms i.e. Djikstra and A*, click on an unoccupied cell (White) while keeping the **"W"** key pressed to increase the weight of that cell by 1.
 - To **deselect** i.e. to make it into an unoccupied cell (White) use **ctrl+click** or **right click**.
