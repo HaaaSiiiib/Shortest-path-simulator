@@ -6,7 +6,7 @@
 
 
 
-## INSTRUCTIONS ON HOW TO USE THE PATH VISUALIZERS
+## INSTRUCTIONS ON HOW TO USE THE PATH SIMULATORS
 
 - Press **"M"** to generate a random maze
 - **First click** sets **Start Point** or *Shibgonj* [Let's call it S for short 🙃] (in Orange); **Second click** sets the **End Point** in this case *Tilagor* [T for short] (in Blue)
