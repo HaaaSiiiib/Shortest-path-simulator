@@ -1,6 +1,6 @@
 # Path-Finding-Simulation
 
-*Go to the website linked below [*suggestion to open in google chrome*] and click on any of the algorithm to simulate*
+*Go to the website linked below [**suggested to open in google chrome**] and click on any of the algorithm to simulate*
 
 ### [Path finding Simulations](https://haaasiiiib.github.io/Shortest-path-simulator/)
 
