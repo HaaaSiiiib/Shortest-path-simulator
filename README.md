@@ -2,7 +2,7 @@
 
 *Go to the link below and click on any of the links*
 
-### [Path finding Simulations](https://rushour0.github.io/Path-Finding-Algorithms)
+### [Path finding Simulations](https://haaasiiiib.github.io/Shortest-path-simulator/)
 
 
 
