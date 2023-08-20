@@ -26,8 +26,6 @@ A* has a heuristic mechanism while Dijkstra does not. With the heuristic, A*
 usually outperforms Dijkstra in speed in finding a path, however, unlike Dijkstra,
 the path A* finds may not always be the optimal one.
 
-![flower-gentleman](https://github.com/HaaaSiiiib/Shortest-path-simulator/assets/46790885/bb984b9d-22f6-4d85-95de-a7a079679d58)
-
 
 
 Here are some examples of simulating the shortest path with the help of the respective algorithm. 
