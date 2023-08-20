@@ -1,6 +1,6 @@
 # Path-Finding-Simulation
 
-*Go to the website linked below [**suggested to open in google chrome**] and click on any of the algorithm to simulate*
+*Go to the website linked below [**suggested to open in google chrome**] and click on any of the algorithms to simulate*
 
 ### [Path finding Simulations](https://haaasiiiib.github.io/Shortest-path-simulator/)
 
@@ -11,15 +11,15 @@
 - Press **"M"** to generate a random maze
 - **First click** sets **Start Point** or *Shibgonj* [Let's call it S for short 🙃] (in Orange); **Second click** sets the **End Point** in this case *Tilagor* [T for short] (in Blue)
 - Further clicking will generate **barriers** in Black
-- In the weigted path algorithms i.e. Djikstra and A*, click on an unoccupied cell (White) while keeping the **"W"** key pressed to increase the weight of that cell by 1.
+- In the weighted path algorithms i.e. Dijkstra and A*, click on an unoccupied cell (White) while keeping the **"W"** key pressed to increase the weight of that cell by 1.
 - To **deselect** i.e. to make it into an unoccupied cell (White) use **ctrl+click** or **right click**.
-- After you are done selecting 'S' and 'T', you may press to **"spacebar"** to start the visualization of the path finding algorithm.
+- After you are done selecting 'S' and 'T', you may press **"spacebar"** to start the visualization of the path-finding algorithm.
 - Press **"R"** to reset the whole grid i.e turn all cells white
 - Press **"C"** if you just want to clear the path that was created in an earlier execution. ( *THIS DOESN'T AFFECT THE BARRIERS, WEIGHTS, AND START/END POINTS* )
 
 
 
-## About the two weigted path algorithms Djikstra and A* : 
+## About the two weighted path algorithms Dijkstra and A* : 
 
 There are great similarities in the two algorithms, with the difference being that
 A* has a heuristic mechanism while Dijkstra does not. With the heuristic, A* 
@@ -27,7 +27,7 @@ usually outperforms Dijkstra in speed in finding a path, however, unlike Dijkstr
 the path A* finds may not always be the optimal one.
 
 
-Here are some examples of simulating the shortest path with help of respective algorithm. 
+Here are some examples of simulating the shortest path with the help of the respective algorithm. 
 
 ### BFS Algorithm simulation on the grid
 
