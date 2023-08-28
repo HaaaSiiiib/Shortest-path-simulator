@@ -1,12 +1,13 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 10px;
 }
 
 .heading{
-  position: relative;
-  top: 80px;
-  left:-200px;
+  position:fixed;
+  top: 5%;
+  right:70%;
+  left: 5%;
   color:var(--color);
   text-shadow: 0 0 15px var(--color);
   text-decoration: none;
@@ -17,41 +18,46 @@ html, body {
 
 
 .M {
-  position: relative;
-  top :100px;
-  left: -200px;
+  position:fixed;
+  margin-top: 10px;
+  top :15%;
+  left :5%;
   color: wheat;
-  align-items: center;
+  align-items: left;
 }
 
 .R {
-  position: relative;
-  top: 190px;
-  left: -453px;
+  position:fixed;
+  margin-top: 10px;
+  top: 25%;
+  left: 5%;
   color: wheat;
 }
 
 .space{
-  position: relative;
-  top: 280px;
-  left: -780px;
+  position: fixed;
+  top: 75%;
+  left: 5%;
+  right: 55%;
   color: wheat;
   align-items: left;
 }
 
 .click{
-  position: relative;
-  top: 240px;
-  left: -730px;
+  position: fixed;
+  top: 38%;
+  left: 5%;
+  right: 55%;
   color: wheat;
   align-items: left;
 
 }
 
 .draw{
-  position: relative;
-  top: 175px;
-  left: -455px;
+  position: fixed;
+  top: 55%;
+  left: 5%;
+  right: 55%;
   color: wheat;
 
 }
@@ -64,14 +70,12 @@ html, body {
 .container {
   color: white;
   width: 100%;
-  min-height: 60vh;
-  position: relative;
-  top: -175px;
-  left: 400px;
+  position: fixed;
+  top: 0%;
+  left: 20%;
   display: flex;
-  justify-content: right;
-  align-items: right;
-  flex-wrap: wrap;
-  gap: -100px;
+  justify-content: left;
+  align-items: left;
+  gap: 0px;
   background: #272821;
 }
